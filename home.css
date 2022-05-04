@@ -1,0 +1,49 @@
+h1 {
+    color: rgb(245, 212, 212);
+}
+header{
+    background-image: url(picorg.jpg);
+    background-size: cover;
+}
+nav{
+    color: #000;
+}
+a{
+    color: #000;
+}
+.MOHSEN{
+    text-align:center;
+    margin-bottom: 60px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2 {
+    color: chartreuse;
+    background-color: blue;
+    line-height: 300%;
+}
+H3 {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+H4 {
+    font-style: italic;
+}
+H5, samp {
+    
+    font-variant: small-caps;
+}
+h1 {
+    line-height: 550%;
+}
+span {
+    height: 60px;
+    width: 60px;
+    background: #00ff00;
+}
+div {
+    height: 100px;
+    width: 40%;
+    display: block;
+
+}
